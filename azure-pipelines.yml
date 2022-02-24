@@ -12,13 +12,13 @@ variables:
   azureSubscription: 'ae-test-omgeving'
   
   # Web app name
-  webAppName: 'YourLinuxApp'
+  webAppName: 'Testapp-ae'
   
   # Resource group
   resourceGroupName: 'testapp-ae'
  
   # Environment name
-  environmentName: 'YourLinuxApp'
+  environmentName: 'Testapp-ae'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
